@@ -23,3 +23,6 @@ Correo: 3014214630101@ingenieria.usac.edu.gt
    ```bash
    git clone https://github.com/PabloR-RC1/RC1A-1S2026.git
     ```
+2. Revisar las carpetas organizadas por semana.
+
+3. Ejecutar los ejemplos en el simulador o herramienta correspondiente.

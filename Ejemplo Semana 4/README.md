@@ -55,16 +55,12 @@ NuevoNombre(config)#
 *El prompt del sistema se actualizará inmediatamente reflejando el nuevo nombre asignado.*
 
 
-Es correcto. Para fines educativos es excelente mostrar la diferencia entre **texto plano** y **cifrado**.
-
 Los dos comandos son:
 
 1. `enable password` (Obsoleto/Inseguro): Guarda la contraseña en texto legible.
 2. `enable secret` (Estándar/Seguro): Guarda la contraseña cifrada (hash MD5).
 
 El comando para **verlas** y compararlas es `show running-config`.
-
-Aquí tienes la sección actualizada para tu `README.md`. Agrégala justo después del punto **3. Seguridad del Dispositivo** o reemplaza esa sección con esta versión más completa que incluye la comparativa y el comando de encriptación de servicio.
 
 ---
 
